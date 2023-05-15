@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ShihaoC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Home
 
-- 😈 一名在校学生
-- 🍕 喜欢吃
+- 会用SpringBoot Springcloud SpringMVC Mybatis Mybatis-Plus
+
+### Projects
+
+- MRCPan 类百度网盘的软件
+- MRCBackground 通用后台(计划完善代码生成模块)
+
+### About
+
+拥有自己的MC服务器
+域名: mrcsh.cn
+
