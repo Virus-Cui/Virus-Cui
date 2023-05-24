@@ -9,7 +9,7 @@
 
 ### Plan
 
-- [x] 代码生成器(Mybatis&Mybatis-Plus) [ing]
+- [x] 代码生成器(Mybatis&Mybatis-Plus)
 - [ ] MRCPan
 - [ ] 学习Vue3
 - [ ] 学习Nuxt.js
