@@ -11,6 +11,8 @@
 
 - [x] 代码生成器(Mybatis&Mybatis-Plus)
 - [ ] MRCPan
+  - [X] 后端
+  - [ ] 前端
 - [ ] 学习Vue3
 - [ ] 学习Nuxt.js
 - [ ] 学习BootStrap
