@@ -10,7 +10,7 @@
 ### Plan
 
 - [x] 代码生成器(Mybatis&Mybatis-Plus)
-- [ ] MRCPan
+- [x] MRCPan
   - [X] 后端
   - [X] 前端
 - [X] 学习Vue3
