@@ -15,7 +15,7 @@
   - [X] 后端
   - [X] 前端
 - [X] 学习Vue3
-- [ ] 学习Nuxt.js
+- [ ] 学习Nuxt.js（ing）
 - [ ] 学习BootStrap
 
 ### About
