@@ -19,9 +19,4 @@
 - [ ] 学习Nuxt.js（ing）
 - [ ] 学习BootStrap
 
-### About
-
-拥有自己的MC服务器
-域名: mc.v6.mrcsh.cn
-博客：blog.mrcsh.cn(未完)
 
