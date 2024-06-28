@@ -2,6 +2,7 @@
         <div style="width: 100%;display: flex;justify-content: center;column-gap: 1rem;">
             <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+This+is+Virus_Cui" alt="Typing SVG" /></a>
         </div>
+        <br/>
         <div style="width: 100%;display: flex;justify-content: center;margin-bottom: 1rem;">
             <img align="center" src="https://skillicons.dev/icons?i=java,elasticsearch,redis,mysql,vue,nuxt&theme=light" />
         </div>
