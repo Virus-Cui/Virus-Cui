@@ -2,7 +2,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hello+This+is+Virus_Cui+Hello+2024" alt="Typing SVG" /></a>
     </p>
     <p align="center">
-        <img align="center" src="https://skillicons.dev/icons?i=java,elasticsearch,redis,mysql,vue,nuxt&theme=light" />
+        <img align="center" src="https://skillicons.dev/icons?i=java,spring,elasticsearch,redis,mysql,vue,nuxt&theme=light" />
     </p>
     <p align="center">
         <a href="https://github.com/Virus-Cui"><img src="https://img.shields.io/badge/GitHub-Virus_Cui-blue?logo=github" /></a>
